@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Julian",
+        "avatarSrc": "/avatar/julian.png"
+    },
+    {
+        "name": "Cindy",
+        "avatarSrc": "/avatar/cindy.png"
+    },
+    {
+        "name": "John",
+        "avatarSrc": "/avatar/john.png"
+    },
+    {
+        "name": "Yvonne",
+        "avatarSrc": "/avatar/yvonne.png"
+    },
+    {
+        "name": "Barry",
+        "avatarSrc": "/avatar/barry.png"
+    },
+    {
+        "name": "Julia",
+        "avatarSrc": "/avatar/julia.png"
+    },
+    {
+        "name": "Suhita",
+        "avatarSrc": "/avatar/suhita.png"
+    },
+    {
+        "name": "Lyly",
+        "avatarSrc": "/avatar/lyly.png"
+    },
+    {
+        "name": "Jonathan",
+        "avatarSrc": "/avatar/jonathan.png"
+    }
+]
